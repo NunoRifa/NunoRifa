@@ -76,6 +76,6 @@ I'm a passionate developer who bridges the gap between **software engineering** 
 
 ###
 
-<img src="https://raw.githubusercontent.com/NunoRifa/NunoRifa/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NunoRifa/NunoRifa/output/snake.svg" alt="Snake animation" />
 
 ###
